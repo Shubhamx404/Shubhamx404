@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **shubhammakeitpossible@gmail.com** For Project or Anything
 - 📫 **How to reach me:** shubhammakeitpossible@gmail.com
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/shubham-kumar-sharma-aa36b925b) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([www.linkedin.com/in/shubham-kumar-sharma-aa36b925b](https://www.linkedin.com/in/shubham-kumar-sharma-aa36b925b/)) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhammakeitpossible@gmail.com) 
 
 # 💻 Tech Stack:
